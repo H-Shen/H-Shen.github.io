@@ -1,10 +1,11 @@
+https://h-shen.github.io/about/
+https://h-shen.github.io/blog_08/
 https://h-shen.github.io/projects/
 https://h-shen.github.io/notes/
 https://h-shen.github.io/note_04/
 https://h-shen.github.io/note_02/
 https://h-shen.github.io/note_01/
 https://h-shen.github.io/blogs/
-https://h-shen.github.io/blog_08/
 https://h-shen.github.io/blog_07/
 https://h-shen.github.io/blog_06/
 https://h-shen.github.io/blog_05/
@@ -12,9 +13,8 @@ https://h-shen.github.io/blog_04/
 https://h-shen.github.io/blog_03/
 https://h-shen.github.io/blog_02/
 https://h-shen.github.io/blog_01/
-https://h-shen.github.io/about/
-https://h-shen.github.io/note_06/
 https://h-shen.github.io/note_05/
+https://h-shen.github.io/note_06/
 https://h-shen.github.io/
 https://h-shen.github.io/tags/About/
 https://h-shen.github.io/tags/Blogs/
